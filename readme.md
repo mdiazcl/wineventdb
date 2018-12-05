@@ -16,7 +16,9 @@ sudo ln -s $(pwd)/winevent.py /usr/local/bin/winevent
 
 
 #### Usage
+```python
 python winevent.py <event_id>
+```
 
 #### Example
 ```bash

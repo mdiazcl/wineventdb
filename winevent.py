@@ -1,4 +1,4 @@
-# Data
+#!/usr/bin/python
 base_url = 'https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID={code}'
 
 from tinydb import TinyDB, Query
